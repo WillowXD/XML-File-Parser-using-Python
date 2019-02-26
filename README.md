@@ -9,7 +9,15 @@ func startElement(self, tag, attributes)   Call when an element or tag starts
 func endElement(self, tag)                 Call when an elements ends  
 func characters(self, content)             Call when a character is read  
 os.startfile('parsed.txt')                 Open the file where parsed contents are stored : PARSED.txt  
-</pre>  
+</pre>
+
+### Execution Screenshots
+####1.  
+![File Not Found](https://github.com/WillowXD/xml_parser/blob/master/Exec1.jpg)  
+  
+  
+####2.  
+![File Not Found](https://github.com/WillowXD/xml_parser/blob/master/Exec2.jpg)
 
 ### Conclusion
 This code provides a simple and effective interface to parse XML documents
